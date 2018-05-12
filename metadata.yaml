@@ -14,6 +14,8 @@ creator:
 description: John Dewey believed that schools were social institutions. In Moral Principles
   in Education, Dewey makes a strong case for the importance of schools not only as
   a place to gain knowledge, but also as a place to learn how to live a moral life.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/25172#Moral-Principles-in-Education
 gutenberg_bookshelf: Philosophy
 gutenberg_issued: '2008-04-25'
 gutenberg_type: Text
